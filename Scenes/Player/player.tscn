@@ -1,7 +1,7 @@
 [gd_scene load_steps=21 format=3 uid="uid://r2hnmyutwfjh"]
 
 [ext_resource type="Script" uid="uid://cnyuwwu3aeka8" path="res://Scenes/Player/player.gd" id="1_a3d8c"]
-[ext_resource type="Texture2D" uid="uid://e6h8dmjbbupf" path="res://Ninja Adventure - Asset Pack/Actor/Characters/NinjaBlue2/SeparateAnim/Walk.png" id="2_a3d8c"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Actor/Characters/NinjaBlue2/SeparateAnim/Walk.png" id="2_a3d8c"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_a3d8c"]
 radius = 6.0

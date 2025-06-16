@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://ejnlnaja5v8o"]
 
 [ext_resource type="Script" uid="uid://b0xp3s3pupo1" path="res://Scenes/LockedDoor/locked_door.gd" id="1_aukdc"]
-[ext_resource type="Texture2D" uid="uid://bh7phnjx77uu7" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png" id="1_vst31"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png" id="1_vst31"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_aukdc"]
 size = Vector2(16, 16)

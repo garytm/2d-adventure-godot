@@ -1,9 +1,9 @@
 [gd_scene load_steps=14 format=4 uid="uid://ds11aiamjgt8g"]
 
 [ext_resource type="PackedScene" uid="uid://r2hnmyutwfjh" path="res://Scenes/Player/player.tscn" id="1_2p8i2"]
-[ext_resource type="Texture2D" uid="uid://bf4o7wuwl1byk" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloor.png" id="1_l6yvh"]
-[ext_resource type="Texture2D" uid="uid://bssgrc06wgg1y" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetNature.png" id="2_04h35"]
-[ext_resource type="Texture2D" uid="uid://bh7phnjx77uu7" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png" id="2_oi8ly"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloor.png" id="1_l6yvh"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetNature.png" id="2_04h35"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png" id="2_oi8ly"]
 [ext_resource type="PackedScene" uid="uid://cohptstbl836f" path="res://Scenes/SceneEntrance/scene_entrance.tscn" id="5_oi8ly"]
 [ext_resource type="PackedScene" uid="uid://cagkbak6gxalb" path="res://Scenes/Block/block.tscn" id="6_12ovb"]
 [ext_resource type="PackedScene" uid="uid://ejnlnaja5v8o" path="res://Scenes/LockedDoor/locked_door.tscn" id="6_elpgg"]

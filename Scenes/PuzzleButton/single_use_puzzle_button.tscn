@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=3 uid="uid://b6ptl7pu1ws2v"]
 
 [ext_resource type="PackedScene" uid="uid://boej5j4es5xv5" path="res://Scenes/PuzzleButton/puzzle_button.tscn" id="1_ifhfw"]
-[ext_resource type="Texture2D" uid="uid://cgi5fibkvpy5" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDungeon.png" id="2_b63pp"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDungeon.png" id="2_b63pp"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_wo7tx"]
 atlas = ExtResource("2_b63pp")

@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://cagkbak6gxalb"]
 
-[ext_resource type="Texture2D" uid="uid://cgi5fibkvpy5" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDungeon.png" id="1_83tkd"]
+[ext_resource type="Texture2D" path="res://Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDungeon.png" id="1_83tkd"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_83tkd"]
 bounce = 0.8

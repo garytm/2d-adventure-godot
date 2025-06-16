@@ -28,7 +28,7 @@ window/stretch/mode="canvas_items"
 
 folder_colors={
 "res://Ninja Adventure - Asset Pack/": "orange",
-"res://Scenes/": "blue"
+"res://Scenes/": "teal"
 }
 
 [global_group]
